@@ -1,5 +1,6 @@
 # zip file
 *.zip
+*.pdf
 
 # other files/folders
 Autonomous_Vehicles_SVHN_single_grey1.h5
